@@ -1,0 +1,9 @@
+{
+  "name": "voice-collab-room",
+  "type": "module",
+  "scripts": {
+    "start": "node server/server.js",
+    "build": "npm install --prefix server"
+  },
+  "dependencies": {}
+}
